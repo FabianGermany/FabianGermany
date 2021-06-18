@@ -2,6 +2,8 @@
 
 I'm Fabian and this is my GitHub profile!
 
+Currently, I'm focusing on Human-Computer-Interaction and Machine Learning topics :bulb:
+
 <!--
 **FabianGermany/FabianGermany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
